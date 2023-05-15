@@ -1,3 +1,3 @@
 # test-repo
 
-R > Python
+R & Python are best friends
