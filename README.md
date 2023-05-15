@@ -2,4 +2,4 @@
 
 R & Python are best friends
 
-Arbitrary text to be rejected
+Slightly less arbitrary text to be accepted
